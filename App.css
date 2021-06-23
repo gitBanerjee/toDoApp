@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  /* background-color: rgb(168, 173, 173); */
+  /* border: 2px solid black; */
+  margin-top: 20%;
+}
+.form {
+  height: 50px;
+}
+.button {
+  margin-left: 20px;
+}
+.container-list {
+  margin: 5% 30%;
+  /* border: 2px solid green; */
+}
